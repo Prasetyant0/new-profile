@@ -45,8 +45,8 @@ export function Hero() {
               Hello, I'm
             </h2>
             <h1 className="text-4xl md:text-6xl font-bold mb-4">
-              <span className="text-white">John</span>{" "}
-              <span className="text-blue-400">Doe</span>
+              <span className="text-white">Pras</span>{" "}
+              <span className="text-blue-400">Setya</span>
             </h1>
             <h2 className="text-2xl md:text-3xl font-semibold mb-6 text-blue-100">
               Fullstack Developer
